@@ -1,0 +1,31 @@
+# Byte-code
+*.class
+
+# Binaries and build outputs
+/bin/
+build/
+target/
+
+# Log files
+*.log
+
+# Eclipse
+.metadata
+.settings/
+*.tmp
+*.bak
+*.swp
+*~.nib
+local.properties
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Documentation & Walkthroughs (excluded from public repo)
+PROJECT_WALKTHROUGH.md
+project_walkthrough.md
+*.bak
+
+
+
